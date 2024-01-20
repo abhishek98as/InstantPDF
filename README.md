@@ -1,6 +1,3 @@
-Certainly! Writing a good project description on GitHub is crucial for attracting users and contributors. Here's a sample project description for your Image to PDF Converter:
-
----
 
 ## Image to PDF Converter
 
